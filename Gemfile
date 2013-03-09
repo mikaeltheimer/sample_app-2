@@ -28,8 +28,8 @@ group :production do
 end
 
 group :test do
-  gem 'rspec', '2.5.0'
-  gem 'webrat', '0.7.1'
+  gem 'rspec'
+  gem 'webrat'
 end
 
 gem 'jquery-rails'

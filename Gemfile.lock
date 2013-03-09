@@ -128,9 +128,9 @@ DEPENDENCIES
   jquery-rails
   pg
   rails (= 3.2.12)
-  rspec (= 2.5.0)
+  rspec
   rspec-rails (= 2.5.0)
   sass-rails (~> 3.2.3)
   sqlite3
   uglifier (>= 1.0.3)
-  webrat (= 0.7.1)
+  webrat
