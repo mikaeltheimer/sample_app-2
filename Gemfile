@@ -8,7 +8,11 @@ gem 'rails', '3.2.12'
 
 group :development do
 	gem 'sqlite3'
-	gem 'rspec-rails', '2.5.0'
+	gem 'rspec-rails'
+  gem 'autotest'
+  gem 'ZenTest'
+  gem 'autotest-growl'
+  gem 'autotest-fsevent'
 end
 
 # Gems used only for assets and not required
